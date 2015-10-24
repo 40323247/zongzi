@@ -1994,9 +1994,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h5&gt;心得和自評&lt;/h5&gt;
     &lt;p&gt;
-    這次的作業跟之前一年級學的Github有些相關，所以做起來理解比較輕鬆些，但是軟體9G得容量讓我的隨身碟有些吃不消，所以回來自己在用電腦下載，下在過程中卻一直出現一些狀況，電腦卻一直頻頻跑出錯誤，才發現是自己電腦本身升級之後有些狀況，導致許多東西不相容，金鑰匙也無法過，後來還是找當初組電腦的人幫忙才可以，再來就是將近端推送到遠端的步驟與方法還不是很熟練，需要自己在多多研究與學習，看自己能不能融會貫通。
+        這次的作業跟之前一年級學的Github有些相關，所以做起來理解比較輕鬆些，但是軟體9G得容量讓我的隨身碟有些吃不消，所以回來自己在用電腦下載，下在過程中卻一直出現一些狀況，電腦卻一直頻頻跑出錯誤，才發現是自己電腦本身升級之後有些狀況，導致許多東西不相容，金鑰匙也無法過，後來還是找當初組電腦的人幫忙才可以，再來就是將近端推送到遠端的步驟與方法還不是很熟練，需要自己在多多研究與學習，看自己能不能融會貫通。&lt;/br&gt;
 
-這次學習內容部份有了解，但卻在實做方面有些跌跌撞撞，自評分數80
+        這次學習內容部份有了解，但卻在實做方面有些跌跌撞撞，自評分數80
 &lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
@@ -2035,31 +2035,30 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;筆記&lt;/h5&gt;
-    &lt;p&gt;1. git clone 網址 ( Github個人帳號網址)
+    &lt;h5&gt;筆記&lt;/h5 &gt;
+    &lt;p&gt;1. git clone 網址 ( Github個人帳號網址)&lt;/br&gt;
+    2. cd 資料夾名稱 ( cd - 進入資料夾)&lt;/br&gt;
 
-2. cd 資料夾名稱 ( cd - 進入資料夾)
+3. git config user.name "名字"&lt;/br&gt;
+git config user.name "信箱"&lt;/br&gt;
+有--global表示之後都默認&lt;/br&gt;
 
-3. git config user.name "名字"
-git config user.name "信箱"
-有--global表示之後都默認
+4. git add 檔名 (檔案在近端展開)&lt;/br&gt;
 
-4. git add 檔名 (檔案在近端展開)
+5. git commit -m "檔案註解"&lt;/br&gt;
 
-5. git commit -m "檔案註解"
-6. git remote -v ( V - View )
+6. git remote -v ( V - View )&lt;/br&gt;
 
-7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼
+7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/br&gt;
 
-8. git branch 查看分支
+8. git branch 查看分支&lt;/br&gt;
 
-9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages )
+9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages )&lt;/br&gt;
 
-10. git checkout gh-pages ( 切換分支 )
+10. git checkout gh-pages ( 切換分支 )&lt;/br&gt;
 
 11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
+    
 				
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
