@@ -2398,7 +2398,7 @@ Diff...
     &lt;/br&gt;
 
         在完全不太會的繪圖軟體有些難操控，但在自己小小的學習下，做得比較輕鬆些，自評分數85&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
