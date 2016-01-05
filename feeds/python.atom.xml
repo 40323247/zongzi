@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-11-30T11:41:00+08:00</updated><entry><title>2015 計算機程式 作業W12</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-30:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業W12內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-11-30T11:41:00+08:00</updated><entry><title>2015 計算機程式 W12作業 升級Leo5.1版</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-30:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業Week12內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest12.html"&gt;作業W12投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/C3xIjmXpYkh3G7w9"&gt;&lt;/img&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h1&gt;Creo組合圖&lt;/h1&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/148491335"&gt;bandicam 2015-12-10 21-41-46-467&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h1&gt;Creo組合圖影片&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W11</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-11-23T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-23:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業W11內容&lt;/p&gt;
+&lt;p target="_blank"&gt;&lt;a href="simplest12.html"&gt;作業Week12投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W11作業 Creo零件與組合繪圖</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-11-23T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-23:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業Week11內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest11.html"&gt;作業W11投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p target="_blank"&gt;&lt;a href="simplest11.html"&gt;作業Week11投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/R9ODnoSURvimJAn3"&gt;&lt;/img&gt;&lt;br/&gt;
 &lt;h1&gt;零件7三視圖&lt;/h1&gt;
 &lt;br/&gt;
@@ -40,26 +32,36 @@
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944558" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;W11-零件8&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h1&gt;Creo零件8圖影片&lt;/h1&gt;
 
-&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W10</title><link href="http://example.com/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-11-16T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-16:2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;以下為作業W10內容&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/C3xIjmXpYkh3G7w9"&gt;&lt;/img&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h1&gt;Creo組合圖&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/148491335"&gt;bandicam 2015-12-10 21-41-46-467&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Creo組合圖影片&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W10作業 新增個人Leo</title><link href="http://example.com/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-11-16T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-16:2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;以下為作業Week10內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest10.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest10.html"&gt;作業W10投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W5</title><link href="http://example.com/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-02T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-02:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業W5內容&lt;/p&gt;
+&lt;p target="_blank"&gt;&lt;a href="simplest10.html"&gt;作業Week10投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W5作業</title><link href="http://example.com/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-02T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-02:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業Week5內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest3.html"&gt;作業W5投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p target="_blank"&gt;&lt;a href="simplest5.html"&gt;作業Week5投影片&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/144636338" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144636338"&gt;bandicam 2015-11-04 18-07-26-094&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br/&gt;
 &lt;iframe src="https://player.vimeo.com/video/144636340" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144636340"&gt;bandicam 2015-11-04 22-41-04-024&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br/&gt;
-&lt;iframe src="https://player.vimeo.com/video/144636339" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144636339"&gt;bandicam 2015-11-04 23-29-20-090&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W4</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業W4內容&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/144636339" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144636339"&gt;bandicam 2015-11-04 23-29-20-090&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W4作業</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業Week4內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest2.html"&gt;作業W4投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p target="_blank"&gt;&lt;a href="simplest4.html"&gt;作業Week4投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/eS3qZe30nDuO0DFG"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
@@ -153,11 +155,11 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W1</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業W1內容&lt;/p&gt;
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W1作業</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業Week1內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest.html"&gt;作業W1投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p target="_blank"&gt;&lt;a href="simplest.html"&gt;作業Week1投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;

@@ -35,13 +35,13 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151101161806.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151105003545.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20160105155908.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="leo.20160104112038.1"><vh>@edit 2015cphww11.md</vh></v>
-<v t="leo.20160105125634.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20160105162617.1"><vh>@edit 2015cphww12.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -362,18 +362,18 @@
 </v>
 </v>
 </v>
-<v t="leo.20160105125642.1"><vh>@clean simplest12.html</vh>
-<v t="leo.20160105125642.2"><vh>檔案說明</vh></v>
-<v t="leo.20160105125642.3" a="E"><vh>html 標註</vh>
-<v t="leo.20160105125642.4" a="E"><vh>body 標註</vh>
-<v t="leo.20160105125642.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20160105125642.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105125642.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105125642.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105125642.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105162629.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20160105162629.2"><vh>檔案說明</vh></v>
+<v t="leo.20160105162629.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160105162629.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160105162629.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160105162629.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160105162629.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160105162629.8"><vh>作業任務一</vh></v>
+<v t="leo.20160105162629.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20160105125642.10"><vh>script</vh></v>
+<v t="leo.20160105162629.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2620,84 +2620,8 @@ Diff...
     &lt;p&gt;這程式我因為之前有學習過3D繪圖，所以在學習得這方面，比較輕鬆一點，但還有許多功能不會，所以還是要慢慢的了解。
     &lt;/br&gt;
 
-        在期間我們還分組，因為我指令在繪畫的過程中，我分配到的是零件7和零件8，我還是有些指令不會，也慢慢完成圖。自評分:75分。&lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160105125642.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20160105125642.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20160105125642.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20160105125642.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20160105125642.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20160105125642.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20160105125642.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20160105125642.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20160105125642.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
-    &lt;p&gt;1.有效且準確地進行電腦輔助資訊傳輸&lt;/br&gt;
-2.盡量看英文零組件繪圖導引, 完成零件繪製與組立&lt;/br&gt;
-3.能利用雲端系統展示電腦輔助設計結果&lt;/br&gt;
-4.能利用影音檔案錄製並展示電腦輔助操作流程&lt;/br&gt;
-5.能利用程式運算進行基本平面機構模擬與分析&lt;/p&gt;
-
-&lt;/section&gt;
-    
-				
-</t>
-<t tx="leo.20160105125642.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;在同學們互相努力的繪圖下，每個一一畫出自己所分配的零件，然後全部分別下載起來，完成最後的組合圖，由於之前有畫過正方體與圓桿的連接，所以在組合方面學習得比較快。自評分:75分。&lt;/p&gt;
+        在期間我們還分組，因為我指令在繪畫的過程中，我分配到的是零件7和零件8，我還是有些指令不會，也慢慢完成圖。&lt;/br&gt;
+        在同學們互相努力的繪圖下，每個一一畫出自己所分配的零件，然後全部分別下載起來，完成最後的組合圖，由於之前有畫過正方體與圓桿的連接，所以在組合方面學習得比較快，在組裝方面也比較上手。自評分:75分。&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -2774,6 +2698,88 @@ Diff...
 <t tx="leo.20160105160324.9">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
     &lt;p&gt;我在家自己電腦中新增一個自己的Leo檔，真的有點困難，自己也是看班同學拍的影片慢慢用，不會的就是問同學，最後終於完成自己個人的Leo檔。自評分:70分。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105162629.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160105162629.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160105162629.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160105162629.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160105162629.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160105162629.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105162629.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105162629.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
+    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160105162629.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;p&gt;1.至 Leo-editor GitHub&lt;p&gt;
+2.點選 releases 下載zip檔 &lt;p&gt;
+3.將載下來的檔案拉到 Ana3_2015 的 data&lt;p&gt; 
+4.下載老師的fix資料夾並拉到Ana3_2015&lt;p&gt; 
+5.開啟SciTE &lt;p&gt;
+6.將fix資料夾內的fix.bat及start.bat拉入SciTE &lt;p&gt;
+7.fix.bat需新增 copy leo-editor-broke-abbrev.zip F:\Ana3_2015\data\ (自的己隨身碟F:) &lt;p&gt;
+8.start.bat把第25行改成 pip install leo-editor-broke-abbrev.zip &lt;p&gt;
+9.儲存完之後點兩下fix.bat &lt;p&gt;
+10.再啟動 start 就安裝成功~~ &lt;/p&gt;
+
+&lt;/section&gt;
+    
+				
+</t>
+<t tx="leo.20160105162629.9">&lt;section&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。自評分:70分。&lt;/p&gt;
     
 &lt;/section&gt;
 				
