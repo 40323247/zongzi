@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-11-30T11:41:00+08:00</updated><entry><title>2015 計算機程式 W12作業 升級Leo5.1版</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-30:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業Week12內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-12-21T11:41:00+08:00</updated><entry><title>2015 計算機程式 W14作業 Onshape零件繪圖</title><link href="http://example.com/2015cp_hw_w14.html" rel="alternate"></link><updated>2015-12-21T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-12-21:2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;以下為作業Week14內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest14.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p target="_blank"&gt;&lt;a href="simplest14.html"&gt;作業Week14投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/cyAmpvgvsJ6mjPL6"&gt;&lt;/img&gt;&lt;br/&gt;
+&lt;h1&gt;Onshape零件7圖&lt;/h1&gt;
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/150341656" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150341656"&gt;bandicam 2015-12-30 22-19-41-030&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Onshape零件7繪圖影片&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/8QeN3qa1uNo2kyMF"&gt;&lt;/img&gt;&lt;br/&gt;
+&lt;h1&gt;Onshape零件8圖&lt;/h1&gt;
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/150341619" width="500" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150341619"&gt;bandicam 2015-12-30 21-55-08-456&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Onshape零件8繪圖影片&lt;/h1&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W12作業 升級Leo5.1版</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-30:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業Week12內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p target="_blank"&gt;&lt;a href="simplest12.html"&gt;作業Week12投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W12作業 升級Leo5.1版</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-30:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業Week12內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p target="_blank"&gt;&lt;a href="simplest12.html"&gt;作業Week12投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W12作業 升級Leo5.1版</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-30:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業Week12內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p target="_blank"&gt;&lt;a href="simplest12.html"&gt;作業Week12投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 W12作業 升級Leo5.1版</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-30T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-30:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業Week12內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -17,7 +51,7 @@
 &lt;br/&gt;
 &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944506" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944506"&gt;W11-零件7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h1&gt;Creo零件7圖影片&lt;/h1&gt;
+&lt;h1&gt;Creo零件7繪圖影片&lt;/h1&gt;
 
 &lt;p&gt;&lt;br/&gt;
 &lt;br/&gt;&lt;/p&gt;
@@ -30,7 +64,7 @@
 &lt;br/&gt;
 &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944558" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;W11-零件8&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h1&gt;Creo零件8圖影片&lt;/h1&gt;
+&lt;h1&gt;Creo零件8繪圖影片&lt;/h1&gt;
 
 &lt;p&gt;&lt;/p&gt;
 &lt;br/&gt;
