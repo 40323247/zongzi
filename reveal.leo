@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151101161806.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151105003545.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -289,18 +289,18 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest1.html</vh>
-<v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
-<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="leo.20160105185352.1"><vh>@clean simplest1.html</vh>
+<v t="leo.20160105185352.2"><vh>檔案說明</vh></v>
+<v t="leo.20160105185352.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160105185352.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160105185352.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160105185352.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160105185352.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160105185352.8"><vh>作業任務一</vh></v>
+<v t="leo.20160105185352.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="amd.20150915211351.15"><vh>script</vh></v>
+<v t="leo.20160105185352.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2084,104 +2084,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;h1&gt;嵌入 Vimeo 影片&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="amd.20150915211341.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="amd.20150915211351.1">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h3&gt;心得和評分&lt;/h3&gt;
-    &lt;p&gt;
-    這次的作業跟之前一年級學的Github有些相關，所以做起來理解比較輕鬆些，但是軟體9G得容量讓我的隨身碟有些吃不消，所以回來自己在用電腦下載，下在過程中卻一直出現一些狀況，電腦卻一直頻頻跑出錯誤，才發現是自己電腦本身升級之後有些狀況，導致許多東西不相容，金鑰匙也無法過，後來還是找當初組電腦的人幫忙才可以，再來就是將近端推送到遠端的步驟與方法還不是很熟練，需要自己在多多研究與學習，看自己能不能融會貫通。&lt;/br&gt;
-
-        這次學習內容部份有了解，但卻在實做方面有些跌跌撞撞。&lt;h3&gt;自評分數:80。&lt;/h3&gt;
-    &lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
-<t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="amd.20150915211351.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150915211351.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
-    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;
-&lt;/section&gt;
-	
-</t>
-<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
-    &lt;p&gt;1. git clone 網址 ( Github個人帳號網址)&lt;/br&gt;
-    2. cd 資料夾名稱 ( cd - 進入資料夾)&lt;/br&gt;
-
-3. git config user.name "名字"&lt;/br&gt;
-git config user.name "信箱"&lt;/br&gt;
-有--global表示之後都默認&lt;/br&gt;
-
-4. git add 檔名 (檔案在近端展開)&lt;/br&gt;
-
-5. git commit -m "檔案註解"&lt;/br&gt;
-
-6. git remote -v ( V - View )&lt;/br&gt;
-
-7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/br&gt;
-
-8. git branch 查看分支&lt;/br&gt;
-
-9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages )&lt;/br&gt;
-
-10. git checkout gh-pages ( 切換分支 )&lt;/br&gt;
-
-11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
-
-&lt;/section&gt;
-    
-				
-</t>
-<t tx="amd.20150917085040.1">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
 <t tx="amd.20150919102209.1">本專案
 
 利用 Jupyter 產生 IPython notebook, 然後整合入 pelican 網誌
@@ -2968,6 +2870,92 @@ Diff...
     &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。&lt;h3&gt;自評分數:75。&lt;/h3&gt;&lt;/p&gt;
     
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105185352.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160105185352.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160105185352.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160105185352.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160105185352.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160105185352.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105185352.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105185352.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160105185352.8">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
+    &lt;p&gt;1. git clone 網址 ( Github個人帳號網址)&lt;/br&gt;
+2. cd 資料夾名稱 ( cd - 進入資料夾)&lt;/br&gt;
+3. git config user.name "名字"&lt;/br&gt;
+git config user.name "信箱"
+有--global表示之後都默認
+4. git add 檔名 (檔案在近端展開)&lt;/br&gt;
+5. git commit -m "檔案註解"&lt;/br&gt;
+6. git remote -v ( V - View )&lt;/br&gt;
+7. git push origin 分支名稱 (有分支的話 --&gt; 需指定分支) , 之後輸入帳號密碼&lt;/br&gt;
+8. git branch 查看分支&lt;/br&gt;
+9. git branch gh-pages ( 建立分支 , 名稱為 gh-pages )&lt;/br&gt;
+10. git checkout gh-pages ( 切換分支 )&lt;/br&gt;
+11. git add -A ( 將所有檔案展開 : A = All )&lt;/p&gt;
+
+&lt;/section&gt;
+    
+				
+</t>
+<t tx="leo.20160105185352.9">&lt;section&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
+    &lt;p&gt;這次的作業跟之前一年級學的Github有些相關，所以做起來理解比較輕鬆些，但是軟體9G得容量讓我的隨身碟有些吃不消，所以回來自己在用電腦下載，下在過程中卻一直出現一些狀況，電腦卻一直頻頻跑出錯誤，才發現是自己電腦本身升級之後有些狀況，導致許多東西不相容，金鑰匙也無法過，後來還是找當初組電腦的人幫忙才可以，再來就是將近端推送到遠端的步驟與方法還不是很熟練，需要自己在多多研究與學習，看自己能不能融會貫通。
+這次學習內容部份有了解，但卻在實做方面有些跌跌撞撞。&lt;h3&gt;自評分數:80。&lt;/h3&gt;&lt;/p&gt;
+  
 &lt;/section&gt;
 				
 </t>
