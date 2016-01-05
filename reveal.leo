@@ -40,6 +40,7 @@
 <v t="leo.20151101161806.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151105003545.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20160104112038.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20160105125634.1"><vh>@edit 2015cphww12.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -300,7 +301,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151101153338.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151101153338.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151101153338.2"><vh>檔案說明</vh></v>
 <v t="leo.20151101153338.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151101153338.4" a="E"><vh>body 標註</vh>
@@ -315,7 +316,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151105004218.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151105004218.1"><vh>@clean simplest5.html</vh>
 <v t="leo.20151105004218.2"><vh>檔案說明</vh></v>
 <v t="leo.20151105004218.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151105004218.4" a="E"><vh>body 標註</vh>
@@ -342,6 +343,21 @@
 </v>
 </v>
 <v t="leo.20160104111312.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160105125642.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20160105125642.2"><vh>檔案說明</vh></v>
+<v t="leo.20160105125642.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160105125642.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160105125642.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160105125642.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160105125642.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160105125642.8"><vh>作業任務一</vh></v>
+<v t="leo.20160105125642.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20160105125642.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2584,6 +2600,86 @@ Diff...
 				
 </t>
 <t tx="leo.20160104111312.9">&lt;section&gt;
+    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;p&gt;這程式我因為之前有學習過3D繪圖，所以在學習得這方面，比較輕鬆一點，但還有許多功能不會，所以還是要慢慢的了解。
+    &lt;/br&gt;
+
+        在期間我們還分組，因為我指令在繪畫的過程中，我分配到的是零件7和零件8，我還是有些指令不會，也慢慢完成圖，。自評分:70分。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105125642.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160105125642.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160105125642.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160105125642.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160105125642.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160105125642.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105125642.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105125642.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
+    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160105125642.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;p&gt;1.有效且準確地進行電腦輔助資訊傳輸&lt;/br&gt;
+2.盡量看英文零組件繪圖導引, 完成零件繪製與組立&lt;/br&gt;
+3.能利用雲端系統展示電腦輔助設計結果&lt;/br&gt;
+4.能利用影音檔案錄製並展示電腦輔助操作流程&lt;/br&gt;
+5.能利用程式運算進行基本平面機構模擬與分析&lt;/p&gt;
+
+&lt;/section&gt;
+    
+				
+</t>
+<t tx="leo.20160105125642.9">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
     &lt;p&gt;這程式我因為之前有學習過3D繪圖，所以在學習得這方面，比較輕鬆一點，但還有許多功能不會，所以還是要慢慢的了解。
     &lt;/br&gt;
