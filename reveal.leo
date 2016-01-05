@@ -286,7 +286,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest1.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -316,7 +316,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151105004218.1"><vh>@clean simplest5.html</vh>
+<v t="leo.20151105004218.1" a="E"><vh>@clean simplest5.html</vh>
 <v t="leo.20151105004218.2"><vh>檔案說明</vh></v>
 <v t="leo.20151105004218.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151105004218.4" a="E"><vh>body 標註</vh>
@@ -2092,7 +2092,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h5&gt;四設二乙&lt;/h5&gt;
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
     &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	

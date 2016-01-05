@@ -1,57 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2016-01-04T11:41:00+08:00</updated><entry><title>2016 計算機程式 作業W11</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-04T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2016-01-04:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業W11內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2016-01-05T11:41:00+08:00</updated><entry><title>2016 計算機程式 作業W12</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2016-01-05T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2016-01-05:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業W12內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p target="_blank"&gt;&lt;a href="simplest12.html"&gt;作業W12投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/C3xIjmXpYkh3G7w9"&gt;&lt;/img&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h1&gt;Creo組合圖&lt;/h1&gt;
+
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/148491335" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/148491335"&gt;bandicam 2015-12-10 21-41-46-467&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h1&gt;Creo組合圖影片&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 作業W11</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-04T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2016-01-04:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業W11內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p target="_blank"&gt;&lt;a href="simplest11.html"&gt;作業W11投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/R9ODnoSURvimJAn3"&gt;&lt;/img&gt;&lt;br/&gt;
-零件7三視圖&lt;/p&gt;
+&lt;h1&gt;零件7三視圖&lt;/h1&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/O0I9guEpPqSMRMOl"&gt;&lt;/img&gt;&lt;br/&gt;
-Creo零件7圖&lt;/p&gt;
+&lt;h1&gt;Creo零件7圖&lt;/h1&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944506" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944506"&gt;W11-零件7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br/&gt;&lt;/p&gt;
+&lt;h1&gt;Creo零件7圖影片&lt;/h1&gt;
+
 &lt;p&gt;&lt;img src="https://copy.com/iaFiJ4Ushic9cN7F"&gt;&lt;/img&gt;&lt;br/&gt;
-零件8三視圖&lt;/p&gt;
+&lt;h1&gt;零件8三視圖&lt;/h1&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/QiZezT4TNSN9JmYx"&gt;&lt;/img&gt;&lt;br/&gt;
-Creo零件8圖&lt;/p&gt;
+&lt;h1&gt;Creo零件8圖&lt;/h1&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944558" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;W11-零件8&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br/&gt;
-&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 作業W11</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-04T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2016-01-04:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業W11內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p target="_blank"&gt;&lt;a href="simplest11.html"&gt;作業W11投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944506" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944506"&gt;W11-零件7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944558" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;W11-零件8&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br/&gt;
-&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 作業W11</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-04T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2016-01-04:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業W11內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;h1&gt;Creo零件8圖影片&lt;/h1&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest11.html"&gt;作業W11投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944506" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944506"&gt;W11-零件7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944558" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;W11-零件8&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br/&gt;
-&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 計算機程式 作業W11</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2016-01-04T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2016-01-04:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業W11內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p target="_blank"&gt;&lt;a href="simplest11.html"&gt;作業W11投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/R9ODnoSURvimJAn3"&gt;&lt;/img&gt;&lt;br/&gt;
-零件7三視圖&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/O0I9guEpPqSMRMOl"&gt;&lt;/img&gt;&lt;br/&gt;
-Creo零件7圖&lt;/p&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944506" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944506"&gt;W11-零件7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/iaFiJ4Ushic9cN7F"&gt;&lt;/img&gt;&lt;br/&gt;
-零件8三視圖&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/QiZezT4TNSN9JmYx"&gt;&lt;/img&gt;&lt;br/&gt;
-Creo零件8圖&lt;/p&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147944558" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/147944558"&gt;W11-零件8&lt;/a&gt; from &lt;a href="https://vimeo.com/user45499931"&gt;黃顏維辰&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;br/&gt;
-&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W5</title><link href="http://example.com/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-02T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-02:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業W5內容&lt;/p&gt;
+&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業W5</title><link href="http://example.com/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-02T11:41:00+08:00</updated><author><name>40323247</name></author><id>tag:example.com,2015-11-02:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業W5內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
