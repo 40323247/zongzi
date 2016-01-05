@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151101161806.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151105003545.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -289,7 +289,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest1.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest1.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -2104,12 +2104,12 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h5&gt;心得和自評&lt;/h5&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;
     這次的作業跟之前一年級學的Github有些相關，所以做起來理解比較輕鬆些，但是軟體9G得容量讓我的隨身碟有些吃不消，所以回來自己在用電腦下載，下在過程中卻一直出現一些狀況，電腦卻一直頻頻跑出錯誤，才發現是自己電腦本身升級之後有些狀況，導致許多東西不相容，金鑰匙也無法過，後來還是找當初組電腦的人幫忙才可以，再來就是將近端推送到遠端的步驟與方法還不是很熟練，需要自己在多多研究與學習，看自己能不能融會貫通。&lt;/br&gt;
 
         這次學習內容部份有了解，但卻在實做方面有些跌跌撞撞，自評分數80&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    
 &lt;/section&gt;
 				
 </t>
@@ -2140,13 +2140,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
-    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h5&gt;筆記&lt;/h5 &gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
     &lt;p&gt;1. git clone 網址 ( Github個人帳號網址)&lt;/br&gt;
     2. cd 資料夾名稱 ( cd - 進入資料夾)&lt;/br&gt;
 
@@ -2475,13 +2475,13 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151101153338.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
     &lt;p&gt;cd tmp→git clone 上次所創的倉儲專案網址→cd 專案→ git branch 檢查分支→git checkout gh-pages 移至分頁→之後開啟 readme.md 確認連結是否正確 README→啟動reveal.leo →複製edit 2015 cphww1 跟 simplest →改日期跟名字、標題、iframe src="simplest.html"改simplest2→在切換button pelican content之後按 pelican-content 確認執行完畢→練習solvespace.exe 繪圖→練習後畫好截圖→把圖丟進資料夾images→推回去git add -A →git commit -m "a"→git push origin gh-pages&lt;/p&gt;
 
 &lt;/section&gt;
@@ -2489,12 +2489,12 @@ Diff...
 				
 </t>
 <t tx="leo.20151101153338.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;在英文的方面我的的能力很差，所以在Google方面去查詢，查詢後使用程式比較簡單些，但是還是操作方面有些複雜，最後一步一步慢慢了解這程式的操作還是完成這繪圖報告
     &lt;/br&gt;
 
         在完全不太會的繪圖軟體有些難操控，但在自己小小的學習下，做得比較輕鬆些，自評分數80&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
+  
 &lt;/section&gt;
 				
 </t>
@@ -2551,13 +2551,13 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151105004218.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
     &lt;p&gt;1.標註尺寸時要按住Ctrl鍵選取兩點-&gt;滑鼠右鍵,就可以去改變尺寸。&lt;/br&gt;
 2.零件組合時要靠近所組裝的地方，再去制定建置(不然會離太遠只會顯示距離)&lt;/br&gt; 
 3.繪製草圖前要先選擇要繪製的平面，然後選擇是要拉伸還是選轉，在除料的時後會用到。&lt;/br&gt;
@@ -2568,7 +2568,7 @@ Diff...
 				
 </t>
 <t tx="leo.20151105004218.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
+   &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;這軟體比較偏向3D繪圖，由於高中有學過類似的程式，所以在這次繪圖的操作比較得心應手，但還是有些小技巧是透過朋友才知道的，在拍攝影片也比較熟練。
     &lt;/br&gt;
 
@@ -2630,13 +2630,13 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160104111312.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
     &lt;p&gt;1.有效且準確地進行電腦輔助資訊傳輸&lt;/br&gt;
 2.盡量看英文零組件繪圖導引, 完成零件繪製與組立&lt;/br&gt;
 3.能利用雲端系統展示電腦輔助設計結果&lt;/br&gt;
@@ -2648,7 +2648,7 @@ Diff...
 				
 </t>
 <t tx="leo.20160104111312.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;這程式我因為之前有學習過3D繪圖，所以在學習得這方面，比較輕鬆一點，但還有許多功能不會，所以還是要慢慢的了解。
     &lt;/br&gt;
 
@@ -2711,8 +2711,8 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;
 &lt;/section&gt;
 	
 </t>
@@ -2728,7 +2728,7 @@ Diff...
 				
 </t>
 <t tx="leo.20160105160324.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;我在家自己電腦中新增一個自己的Leo檔，真的有點困難，自己也是看班同學拍的影片慢慢用，不會的就是問同學，最後終於完成自己個人的Leo檔。自評分:70分。&lt;/p&gt;
     
 &lt;/section&gt;
@@ -2787,13 +2787,13 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160105162629.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
     &lt;p&gt;1.至 Leo-editor GitHub&lt;/br&gt;
 2.點選 releases 下載zip檔 &lt;/br&gt;
 3.將載下來的檔案拉到 Ana3_2015 的 data&lt;/br&gt;
@@ -2810,7 +2810,7 @@ Diff...
 				
 </t>
 <t tx="leo.20160105162629.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。自評分:70分。&lt;/p&gt;
     
 &lt;/section&gt;
@@ -2869,13 +2869,13 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160105165849.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
     &lt;p&gt;1.請各組組員利用學校配發的 Gmail 帳號，至 https://www.onshape.com 申請免費帳號&lt;/br&gt;
 2.到onshape網頁建立自組共同空間→按create→share&lt;/br&gt;
 3.按完後輸入自組組員的帳號→即可完成分享共同空間&lt;/br&gt;
@@ -2889,7 +2889,7 @@ Diff...
 				
 </t>
 <t tx="leo.20160105165849.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。自評分:75分。&lt;/p&gt;
     
 &lt;/section&gt;
@@ -2948,13 +2948,13 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323247黃顏維辰&lt;/p&gt;		
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160105165851.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h3&gt;課堂筆記&lt;/h3 &gt;
     &lt;p&gt;1.繪畫Onspape組合影片&lt;/br&gt;
     2.在組合的時候注意約束位置&lt;/br&gt;
     3.計算出限制範圍，顯示出最大範圍與最小範圍&lt;/p&gt;
@@ -2964,7 +2964,7 @@ Diff...
 				
 </t>
 <t tx="leo.20160105165851.9">&lt;section&gt;
-    &lt;h1&gt;心得和自評&lt;/h1&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
     &lt;p&gt;這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。自評分:75分。&lt;/p&gt;
     
 &lt;/section&gt;
