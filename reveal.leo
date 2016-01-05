@@ -2955,16 +2955,9 @@ Diff...
 </t>
 <t tx="leo.20160105165851.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記&lt;/h1 &gt;
-    &lt;p&gt;1.至 Leo-editor GitHub&lt;p&gt;
-2.點選 releases 下載zip檔 &lt;p&gt;
-3.將載下來的檔案拉到 Ana3_2015 的 data&lt;p&gt; 
-4.下載老師的fix資料夾並拉到Ana3_2015&lt;p&gt; 
-5.開啟SciTE &lt;p&gt;
-6.將fix資料夾內的fix.bat及start.bat拉入SciTE &lt;p&gt;
-7.fix.bat需新增 copy leo-editor-broke-abbrev.zip F:\Ana3_2015\data\ (自的己隨身碟F:) &lt;p&gt;
-8.start.bat把第25行改成 pip install leo-editor-broke-abbrev.zip &lt;p&gt;
-9.儲存完之後點兩下fix.bat &lt;p&gt;
-10.再啟動 start 就安裝成功~~ &lt;/p&gt;
+    &lt;p&gt;1.繪畫Onspape組合影片&lt;/br&gt;
+    2.在組合的時候注意約束位置&lt;/br&gt;
+    3.計算出限制範圍，顯示出最大範圍與最小範圍&lt;/p&gt;
 
 &lt;/section&gt;
     
@@ -2972,7 +2965,7 @@ Diff...
 </t>
 <t tx="leo.20160105165851.9">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快 ，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。自評分:70分。&lt;/p&gt;
+    &lt;p&gt;這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。自評分:75分。&lt;/p&gt;
     
 &lt;/section&gt;
 				
