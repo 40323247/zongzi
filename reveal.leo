@@ -44,6 +44,7 @@
 <v t="leo.20160105162617.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20160105165839.1"><vh>@edit 2015cphww14.md</vh></v>
 <v t="leo.20160105165915.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160105214100.1"><vh>@edit 2016cphww16.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -295,9 +296,9 @@
 <v t="leo.20160105185352.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105185352.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105185352.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105185352.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105185352.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105185352.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105185352.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105185352.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105185352.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105185352.10"><vh>script</vh></v>
@@ -310,9 +311,9 @@
 <v t="leo.20151101153338.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151101153338.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151101153338.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151101153338.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151101153338.8"><vh>作業任務一</vh></v>
-<v t="leo.20151101153338.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151101153338.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20151101153338.8"><vh>課堂筆記</vh></v>
+<v t="leo.20151101153338.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20151101153338.10"><vh>script</vh></v>
@@ -325,9 +326,9 @@
 <v t="leo.20151105004218.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151105004218.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151105004218.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151105004218.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151105004218.8"><vh>作業任務一</vh></v>
-<v t="leo.20151105004218.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151105004218.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20151105004218.8"><vh>課堂筆記</vh></v>
+<v t="leo.20151105004218.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20151105004218.10"><vh>script</vh></v>
@@ -340,9 +341,9 @@
 <v t="leo.20160105160324.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105160324.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105160324.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105160324.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160105160324.7"><vh>電腦輔助設計實習CADP</vh></v>
 <v t="leo.20160105160324.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105160324.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105160324.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105160324.10"><vh>script</vh></v>
@@ -355,9 +356,9 @@
 <v t="leo.20160104111312.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160104111312.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160104111312.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160104111312.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160104111312.8"><vh>作業任務一</vh></v>
-<v t="leo.20160104111312.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160104111312.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160104111312.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160104111312.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160104111312.10"><vh>script</vh></v>
@@ -370,9 +371,9 @@
 <v t="leo.20160105162629.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105162629.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105162629.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105162629.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105162629.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105162629.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105162629.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105162629.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105162629.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105162629.10"><vh>script</vh></v>
@@ -385,9 +386,9 @@
 <v t="leo.20160105165849.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105165849.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105165849.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105165849.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105165849.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105165849.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105165849.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105165849.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105165849.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105165849.10"><vh>script</vh></v>
@@ -400,12 +401,28 @@
 <v t="leo.20160105165851.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105165851.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105165851.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105165851.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160105165851.8"><vh>作業任務一</vh></v>
-<v t="leo.20160105165851.9"><vh>第3張投影片</vh></v>
+<v t="leo.20160105165851.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105165851.8"><vh>課堂筆記</vh></v>
+<v t="leo.20160105165851.9"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105165851.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160105214913.1"><vh>@clean simplest16.html</vh>
+<v t="leo.20160105214913.2"><vh>檔案說明</vh></v>
+<v t="leo.20160105214913.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160105214913.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160105214913.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160105214913.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160105214913.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105214913.8"><vh>Creo繪圖心得</vh></v>
+<v t="leo.20160105214913.9"><vh>Onshape繪圖心得</vh></v>
+<v t="leo.20160105215232.1"><vh>自評分數</vh></v>
+</v>
+</v>
+<v t="leo.20160105214913.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -605,6 +622,12 @@
 <v t="leo.20151024150507.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="leo.20151024150507.4"><vh>old:html 標註</vh></v>
 <v t="leo.20151024150507.5"><vh>new:html 標註</vh></v>
+</v>
+</v>
+<v t="leo.20160105214045.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160105214045.2"><vh>Recovered node "第3張投影片" from @clean simplest12.html</vh>
+<v t="leo.20160105214045.3"><vh>old:第3張投影片</vh></v>
+<v t="leo.20160105214045.4"><vh>new:第3張投影片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2620,7 +2643,7 @@ Diff...
 	
 </t>
 <t tx="leo.20160105160324.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;筆記&lt;/h1 &gt;
+    &lt;h1&gt;課堂筆記&lt;/h1 &gt;
     &lt;p&gt;
 1.將原本舊版的leo獨立修改成自己的檔案&lt;/br&gt;
 2.修改完後放在user內自己學號的資料夾中&lt;/br&gt;
@@ -2956,6 +2979,113 @@ git config user.name "信箱"
     &lt;p&gt;這次的作業跟之前一年級學的Github有些相關，所以做起來理解比較輕鬆些，但是軟體9G得容量讓我的隨身碟有些吃不消，所以回來自己在用電腦下載，下在過程中卻一直出現一些狀況，電腦卻一直頻頻跑出錯誤，才發現是自己電腦本身升級之後有些狀況，導致許多東西不相容，金鑰匙也無法過，後來還是找當初組電腦的人幫忙才可以，再來就是將近端推送到遠端的步驟與方法還不是很熟練，需要自己在多多研究與學習，看自己能不能融會貫通。
 這次學習內容部份有了解，但卻在實做方面有些跌跌撞撞。&lt;h3&gt;自評分數:80。&lt;/h3&gt;&lt;/p&gt;
   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105214045.1"></t>
+<t tx="leo.20160105214045.2">(uncached) leo.20160105162629.9
+Diff...
+  &lt;section&gt;
+      &lt;h3&gt;心得和評分&lt;/h3&gt;
+-     &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
+?                                     ^
++     &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快 ，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
+?                                     ^
+      
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160105214045.3">&lt;section&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
+    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快 ，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105214045.4">&lt;section&gt;
+    &lt;h3&gt;心得和評分&lt;/h3&gt;
+    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105214913.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160105214913.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160105214913.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160105214913.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160105214913.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160105214913.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105214913.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160105214913.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160105214913.8">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;Creo繪圖心得&lt;/h3 &gt;
+    &lt;p&gt;  在學習這程式的過程中，有些不愉快與困擾，在畫這程式的時候，因為我電腦不知道為什麼用這程式回出現殘影，原本剛開始的座標都可以轉得跟球一樣，所以導致需要跟同學借電腦，都要等對方報告做換或是要忙的時候借電腦，一借就是很久，畫圖錄影就花了不好時間，借久都會覺得不好意思，總是麻煩到別人，但在這短短的畫圖期間，好好的研究程式，如何畫圖，換許還是許多功能不太會使用，但多多少少一些基本的畫得出來，這次的課程作業，讓我學習到一個新的3D繪圖軟體，可能時間不多，但卻認真的完成這次畫圖的作業，還一組分開畫零件，可以互相研究，一起合作讓我們把最好的Parametric組合圖畫出來，這都是大家一起努力的成果。&lt;/p&gt;
+
+&lt;/section&gt;
+    
+				
+</t>
+<t tx="leo.20160105214913.9">&lt;section&gt;
+    &lt;h3&gt;Onshape繪圖心得&lt;/h3&gt;
+    &lt;p&gt;這個程式是既上次Parametric零件與組合圖畫完之後，老師教的下一個繪圖軟體，心裡總想又要麻煩同學了，沒想到它是網頁版的繪圖軟體，當天在課堂上用學校的帳號辦會員，辦好的時候想說畫畫看，結果一畫，跟上次畫的Parametric有那麼一點點的相似，所以學起來比較快，但因為是英文所以我學得有些吃力，而且很多功能不太會使用，但在慢慢的摸索下，把零件與組合圖繪畫完，在這次的合作下發現到，為什麼零件7的洞沒辦法跟板子密合，原來是當初給的圖的尺寸是錯的，想說都畫對怎麼可能組不起來，在這次的合作，我們一步一步的完成最後Onshape的組合圖。&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160105215232.1">&lt;section&gt;
+    &lt;h2&gt;自評分數:75&lt;/h2&gt;
+    
+    
 &lt;/section&gt;
 				
 </t>
