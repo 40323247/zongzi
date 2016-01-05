@@ -289,7 +289,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest1.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest1.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -2141,7 +2141,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
-    &lt;h5&gt;40323247-黃顏維辰&lt;/h5&gt;		
+    &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
