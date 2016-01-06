@@ -618,12 +618,6 @@
 </v>
 </v>
 </v>
-<v t="leo.20151024150507.2"><vh>Recovered Nodes</vh>
-<v t="leo.20151024150507.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
-<v t="leo.20151024150507.4"><vh>old:html 標註</vh></v>
-<v t="leo.20151024150507.5"><vh>new:html 標註</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20150913232631.1"></t>
@@ -2291,57 +2285,6 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151024150507.2"></t>
-<t tx="leo.20151024150507.3">(uncached) amd.20150915211351.1
-Diff...
-  &lt;!doctype html&gt;
-  &lt;html lang="en"&gt;
-  &lt;head&gt;
-  &lt;meta charset="utf-8"&gt;
-  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-  	&lt;!--[if lt IE 9]&gt;
-  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-  	&lt;![endif]--&gt;
-  &lt;/head&gt;
-+ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-+ &lt;/html&gt;
-+ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-  @others
-</t>
-<t tx="leo.20151024150507.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-@others
-</t>
-<t tx="leo.20151024150507.5">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
 <t tx="leo.20151101153338.1">@language xml
 @tabwidth -4
 @others
