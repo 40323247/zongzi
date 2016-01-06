@@ -373,7 +373,7 @@
 <v t="leo.20160105162629.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160105162629.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105162629.8"><vh>課堂筆記</vh></v>
-<v t="leo.20160105162629.9"><vh>心得和評分</vh></v>
+<v t="leo.20160106091005.1"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160105162629.10"><vh>script</vh></v>
@@ -2724,16 +2724,10 @@ Diff...
 8.start.bat把第25行改成 pip install leo-editor-broke-abbrev.zip &lt;/br&gt;
 9.儲存完之後點兩下fix.bat &lt;/br&gt;
 10.再啟動 start 就安裝成功~~ &lt;/br&gt;
+&lt;/p&gt;
 
 &lt;/section&gt;
     
-				
-</t>
-<t tx="leo.20160105162629.9">&lt;section&gt;
-    &lt;h3&gt;心得和評分&lt;/h3&gt;
-    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
-    
-&lt;/section&gt;
 				
 </t>
 <t tx="leo.20160105165849.1">@language xml
@@ -3054,6 +3048,15 @@ git config user.name "信箱"
     
     
 &lt;/section&gt;
+				
+</t>
+<t tx="leo.20160106091005.1">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;心得和評分&lt;/h3 &gt;
+    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快 ，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;
+    &lt;/p&gt;
+
+&lt;/section&gt;
+    
 				
 </t>
 </tnodes>
