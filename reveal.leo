@@ -296,7 +296,7 @@
 <v t="leo.20160105185352.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105185352.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105185352.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105185352.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105185352.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105185352.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105185352.9"><vh>心得和評分</vh></v>
 </v>
@@ -311,7 +311,7 @@
 <v t="leo.20151101153338.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151101153338.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151101153338.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151101153338.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20151101153338.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20151101153338.8"><vh>課堂筆記</vh></v>
 <v t="leo.20151101153338.9"><vh>心得和評分</vh></v>
 </v>
@@ -326,7 +326,7 @@
 <v t="leo.20151105004218.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151105004218.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151105004218.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151105004218.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20151105004218.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20151105004218.8"><vh>課堂筆記</vh></v>
 <v t="leo.20151105004218.9"><vh>心得和評分</vh></v>
 </v>
@@ -341,7 +341,7 @@
 <v t="leo.20160105160324.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105160324.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105160324.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105160324.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105160324.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105160324.8"><vh>作業任務一</vh></v>
 <v t="leo.20160105160324.9"><vh>心得和評分</vh></v>
 </v>
@@ -356,7 +356,7 @@
 <v t="leo.20160104111312.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160104111312.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160104111312.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160104111312.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160104111312.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160104111312.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160104111312.9"><vh>心得和評分</vh></v>
 </v>
@@ -371,7 +371,7 @@
 <v t="leo.20160105162629.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105162629.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105162629.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105162629.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105162629.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105162629.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105162629.9"><vh>心得和評分</vh></v>
 </v>
@@ -386,7 +386,7 @@
 <v t="leo.20160105165849.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105165849.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105165849.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105165849.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105165849.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105165849.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105165849.9"><vh>心得和評分</vh></v>
 </v>
@@ -401,7 +401,7 @@
 <v t="leo.20160105165851.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105165851.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105165851.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105165851.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105165851.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105165851.8"><vh>課堂筆記</vh></v>
 <v t="leo.20160105165851.9"><vh>心得和評分</vh></v>
 </v>
@@ -416,7 +416,7 @@
 <v t="leo.20160105214913.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160105214913.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105214913.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160105214913.7"><vh>電腦輔助設計實習CADP</vh></v>
+<v t="leo.20160105214913.7"><vh>電腦輔助設計實習CADPB</vh></v>
 <v t="leo.20160105214913.8"><vh>Creo繪圖心得</vh></v>
 <v t="leo.20160105214913.9"><vh>Onshape繪圖心得</vh></v>
 <v t="leo.20160105215232.1"><vh>自評分數</vh></v>
@@ -622,12 +622,6 @@
 <v t="leo.20151024150507.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="leo.20151024150507.4"><vh>old:html 標註</vh></v>
 <v t="leo.20151024150507.5"><vh>new:html 標註</vh></v>
-</v>
-</v>
-<v t="leo.20160105214045.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20160105214045.2"><vh>Recovered node "第3張投影片" from @clean simplest12.html</vh>
-<v t="leo.20160105214045.3"><vh>old:第3張投影片</vh></v>
-<v t="leo.20160105214045.4"><vh>new:第3張投影片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2401,7 +2395,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
@@ -2477,7 +2471,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2556,7 +2550,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
@@ -2637,7 +2631,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;
 &lt;/section&gt;
 	
@@ -2713,7 +2707,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2795,7 +2789,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2874,7 +2868,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2949,7 +2943,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;	
 &lt;/section&gt;
 	
@@ -2979,33 +2973,6 @@ git config user.name "信箱"
     &lt;p&gt;這次的作業跟之前一年級學的Github有些相關，所以做起來理解比較輕鬆些，但是軟體9G得容量讓我的隨身碟有些吃不消，所以回來自己在用電腦下載，下在過程中卻一直出現一些狀況，電腦卻一直頻頻跑出錯誤，才發現是自己電腦本身升級之後有些狀況，導致許多東西不相容，金鑰匙也無法過，後來還是找當初組電腦的人幫忙才可以，再來就是將近端推送到遠端的步驟與方法還不是很熟練，需要自己在多多研究與學習，看自己能不能融會貫通。
 這次學習內容部份有了解，但卻在實做方面有些跌跌撞撞。&lt;h3&gt;自評分數:80。&lt;/h3&gt;&lt;/p&gt;
   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160105214045.1"></t>
-<t tx="leo.20160105214045.2">(uncached) leo.20160105162629.9
-Diff...
-  &lt;section&gt;
-      &lt;h3&gt;心得和評分&lt;/h3&gt;
--     &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
-?                                     ^
-+     &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快 ，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
-?                                     ^
-      
-  &lt;/section&gt;
-  				
-</t>
-<t tx="leo.20160105214045.3">&lt;section&gt;
-    &lt;h3&gt;心得和評分&lt;/h3&gt;
-    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快 ，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160105214045.4">&lt;section&gt;
-    &lt;h3&gt;心得和評分&lt;/h3&gt;
-    &lt;p&gt;下載fix是為了讓我們在隨身硬碟上使用python可以更快，可是我覺得在安裝過程中還蠻複雜的，幸好還有老師的影片可以讓我一步一步慢慢的跟著做，才能完成升級Leo5.1版，在升級安裝完過後真的好像有變得比較快些。&lt;h3&gt;自評分數:70。&lt;/h3&gt;&lt;/p&gt;
-    
 &lt;/section&gt;
 				
 </t>
@@ -3062,7 +3029,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;h3&gt;電腦輔助設計實習CADP&lt;/h3&gt;
+&lt;h3&gt;電腦輔助設計實習CADPB&lt;/h3&gt;
     &lt;p&gt;40323247-黃顏維辰&lt;/p&gt;		
 &lt;/section&gt;
 	
